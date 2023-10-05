@@ -1,8 +1,6 @@
 # OOP_final_project
 
----
-title: Final Homework
-tags: 2021_OOP_Final
+
 ---
 
 # Final Homework of course OOP
